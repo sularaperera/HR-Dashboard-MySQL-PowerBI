@@ -27,9 +27,9 @@ Data Cleaning, Analysis & Visualization  - MySQL, PowerBI
 
 9. What is the distribution of employees across locations by state?
 
-10.How has the company's employee count changed over time based on hire and term dates?
+10. How has the company's employee count changed over time based on hire and term dates?
 
-11.What is the tenure distribution for each department?
+11. What is the tenure distribution for each department?
 
 # Summary of Findings
 
